@@ -13,7 +13,7 @@ A simple web application built using HTML and JavaScript that allows users to **
 - JavaScript  
 
 ## How to Use
-1. Open `To-Do-ListApp.html` in your browser.  
+1. Open `index.html` in your browser.  
 2. Type a task in the input box.  
 3. Click **Add Task** to display it in the list.  
 4. Repeat to add more tasks.  
